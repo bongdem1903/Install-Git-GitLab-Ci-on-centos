@@ -1,2 +1,1 @@
-# Install-Git-GitLabCi-Centos.sh
-create 04/06/2016
+#author sangnv91@yahoo.com.vn
